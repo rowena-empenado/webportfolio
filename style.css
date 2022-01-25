@@ -1,0 +1,75 @@
+#nav {
+	color: #55CBCD;
+	font-family: 'Baloo Chettan 2', cursive;
+	font-weight: bold;
+
+}
+
+.my-name {
+	font-family: 'Merienda', cursive; 
+	font-size: 50px;
+	color: #55CBCD;
+}
+
+.font2 {
+	font-family: 'Baloo Chettan 2', cursive; 
+	background-color: #55CBCD;
+	color: white;
+	border-radius: 20px;
+	float: center;
+}
+
+p {
+	font-family: 'Baloo Chettan 2', cursive; 
+}
+
+#bio {
+	font-family: 'Baloo Chettan 2', cursive; 
+	font-size: 1.5rem;
+}
+
+#projects, #crsl {
+	font-family: 'Baloo Chettan 2', cursive; 
+}
+
+body {
+	 background-image: url("https://i.imgur.com/0mzSlJU.jpg");
+	 background-size: cover;
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+}
+
+#contactMe {
+	 background-image: url("https://i.imgur.com/sk8qTuJ.png?1");
+	 background-size: cover;
+	 /*position: relative;*/
+	 background-repeat: no-repeat;
+	 font-family: 'Baloo Chettan 2', cursive;
+
+	 /*background-attachment: fixed;*/
+}
+
+h3 {
+	font-family: 'Merienda', cursive; 
+	float: center;
+}
+
+#contactButton {
+	background-color: #005F73;
+	color: white;
+	border: none;
+	float: center;
+}
+
+a:link {
+	font-family: 'Baloo Chettan 2', cursive;
+	text-decoration: none;
+}
+
+.card-fill {
+	background-color: #005F73;
+}
+
+.proj-font {
+	color: #005F73;
+}
