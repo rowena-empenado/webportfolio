@@ -9,14 +9,14 @@ Features:
 - Social media links
 
 Technologies:
-HTML
-CSS
-Bootstrap
+- HTML
+- CSS
+- Bootstrap
 
 Tools:
-Sublime Text
-GitLab
-GitHub
+- Sublime Text
+- GitLab
+- GitHub
 
 Check it out here:
 https://rowena-empenado.github.io/webportfolio/
